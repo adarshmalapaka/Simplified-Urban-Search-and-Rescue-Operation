@@ -26,7 +26,7 @@ The below video corresponds to the demo of the search and rescue task with the A
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=bqUnzQA4Owg" target="_blank">
- <img src="https://user-images.githubusercontent.com/40534801/222015993-7c4b03eb-c1a6-4317-b077-c26ba82f5edc.png" alt="Watch the Simulation" width="450" height="300" border="10" />
+ <img src="https://user-images.githubusercontent.com/40534801/222917882-4f970aba-5e17-449d-8e8e-994c9c08c3eb.png" alt="Watch the Simulation" width="650" height="400" border="10" />
 </a>
 </p>
 <p align = "center">
@@ -39,7 +39,7 @@ The below video corresponds to the demo of the search and rescue task with the A
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=N_4cfe7u9H8" target="_blank">
- <img src="https://user-images.githubusercontent.com/40534801/222016364-382d4904-cf1e-44b5-b66f-649dab8a4091.jpg" alt="Watch the Simulation" width="450" height="300" border="10" />
+ <img src="https://user-images.githubusercontent.com/40534801/222917950-b80d96f1-da83-46c9-9943-ba3792345335.png" alt="Watch the Simulation" width="650" height="400" border="10" />
 </a>
 </p>
 <p align = "center">
@@ -56,7 +56,6 @@ The locations of the ArUco markers for the simulation and test cases are shown b
 | 2 | 1 | -2.510293 | 1.125585 | -2.510293 | 1.125585 |
 | 3 | 3 | -0.289296 | -1.282680 | -0.289296 | -1.282680 |
 | 4 | 2 | -7.710214 | -1.716889 | 7.710214 | -1.716889 |
-
 
 ## Report
 
